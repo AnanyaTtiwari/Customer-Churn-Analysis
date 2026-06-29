@@ -158,7 +158,8 @@ Based on the analysis, the following recommendations are suggested:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+<img width="695" height="430" alt="Screenshot 2026-06-16 132846" src="https://github.com/user-attachments/assets/b3a02071-c496-4143-8d0e-3925e7c2dac4" />
+
 
 ---
 
@@ -187,6 +188,3 @@ Future improvements may include:
 
 ---
 
-## Author
-
-**Ananya Tiwari**
